@@ -1,6 +1,6 @@
 {
-  "name": "markdown-previewer",
-  "homepage":"http://FranklynSierra.github.io/markdown-previewer",
+  "name": "markdown-previewer-freeCodeCamp",
+  "homepage":"http://FranklynSierra.github.io/markdown-previewer-freeCodeCamp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
